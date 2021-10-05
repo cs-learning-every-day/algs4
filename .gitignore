@@ -3,3 +3,4 @@ target/
 *.iml
 .lift/
 *.class
+algs4-project/algs4-data
