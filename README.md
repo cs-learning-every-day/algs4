@@ -6,7 +6,18 @@
 
 - 🔥 **算法4** [笔记](https://github.com/MeandNi/Algorithms4-Common)
 
-### Labs
+### Algorithms Part I\II Homeworks
+- [ ] Percolation
+- [ ] Deques and Randomized Queues
+- [ ] Collinear Points
+- [ ] 8 Puzzle
+- [ ] Kd-Trees
+- [ ] WordNet
+- [ ] Seam Carving
+- [ ] Baseball Elimination
+- [ ] Boggle
+- [ ] Burrows–Wheeler
+### COS226 Labs
 
 - [x] [Percolation](https://www.cs.princeton.edu/courses/archive/fall20/cos226/assignments/percolation/specification.php) Estimate the percolation threshhold using union–find.
 - [x] [Queues](https://www.cs.princeton.edu/courses/archive/fall20/cos226/assignments/queues/specification.php) Implement two collections using arrays and linked lists.
