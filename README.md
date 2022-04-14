@@ -7,8 +7,8 @@
 - 🔥 **算法4** [笔记](https://github.com/MeandNi/Algorithms4-Common)
 
 ### Algorithms Part I\II Homeworks
-- [x] Percolation                                              Score:100:
-- [ ] Deques and Randomized Queues
+- [x] Percolation
+- [X] Deques and Randomized Queues
 - [ ] Collinear Points
 - [ ] 8 Puzzle
 - [ ] Kd-Trees
