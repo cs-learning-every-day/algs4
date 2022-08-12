@@ -561,7 +561,9 @@ public class AutocompleteGUI extends JFrame {
                             throw new NullPointerException("allMatches() "
                                                                    + "returned an array with a null entry");
                         }
-                        int tab = next.indexOf('\t');
+                        // 给我的数据竟然不是\t分隔是' '空格
+                        // int tab = next.indexOf('\t');
+                        int tab = next.indexOf(' ');
                         if (tab < 0) {
                             throw new RuntimeException("allMatches() returned"
                                                                + " an array with an entry without a tab:"

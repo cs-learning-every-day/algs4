@@ -21,7 +21,7 @@
 
 - [x] [Percolation](https://www.cs.princeton.edu/courses/archive/fall20/cos226/assignments/percolation/specification.php) Estimate the percolation threshhold using union–find.
 - [x] [Queues](https://www.cs.princeton.edu/courses/archive/fall20/cos226/assignments/queues/specification.php) Implement two collections using arrays and linked lists.
-- [ ] [Autocomplete](https://www.cs.princeton.edu/courses/archive/fall20/cos226/assignments/autocomplete/specification.php) Find all terms beginning with a given prefix, sorted by weight.
+- [x] [Autocomplete](https://www.cs.princeton.edu/courses/archive/fall20/cos226/assignments/autocomplete/specification.php) Find all terms beginning with a given prefix, sorted by weight.
 - [ ] [K-d Trees](https://www.cs.princeton.edu/courses/archive/fall20/cos226/assignments/kdtree/specification.php) Implement k-d trees with nearest neighbor search. 
 - [ ] [WordNet](https://www.cs.princeton.edu/courses/archive/fall20/cos226/assignments/wordnet/specification.php) Measure the relatedness of two nouns using the WordNet digraph.
 - [ ] [Seam Carving](https://www.cs.princeton.edu/courses/archive/fall20/cos226/assignments/seam/specification.php) Implement a content-aware image resizing algorithm.
