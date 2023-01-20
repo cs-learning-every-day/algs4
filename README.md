@@ -7,7 +7,7 @@
 - 🔥 **算法4** [笔记](https://github.com/MeandNi/Algorithms4-Common)
 
 ### Algorithms Part I\II Homeworks
-- [ ] Hello World
+- [x] Hello World
 - [x] Percolation
 - [X] Deques and Randomized Queues
 - [ ] Collinear Points
