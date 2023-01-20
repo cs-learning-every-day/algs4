@@ -7,6 +7,7 @@
 - 🔥 **算法4** [笔记](https://github.com/MeandNi/Algorithms4-Common)
 
 ### Algorithms Part I\II Homeworks
+- [ ] Hello World
 - [x] Percolation
 - [X] Deques and Randomized Queues
 - [ ] Collinear Points
@@ -17,6 +18,7 @@
 - [ ] Baseball Elimination
 - [ ] Boggle
 - [ ] Burrows–Wheeler
+
 ### COS226 Labs
 
 - [x] [Percolation](https://www.cs.princeton.edu/courses/archive/fall20/cos226/assignments/percolation/specification.php) Estimate the percolation threshhold using union–find.
