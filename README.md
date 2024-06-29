@@ -10,7 +10,7 @@
 - [x] Hello World
 - [x] Percolation
 - [X] Deques and Randomized Queues
-- [ ] Collinear Points
+- [X] Collinear Points
 - [ ] 8 Puzzle
 - [ ] Kd-Trees
 - [ ] WordNet
